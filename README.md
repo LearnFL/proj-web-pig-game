@@ -18,7 +18,8 @@ If dice is equal to 1:
 ```
 Instead of using `.classList.add('player--active')` or `.classList.remove('player--active')`:
 ```
-  .classList.toggle('player--active')
+  'player1'.classList.toggle('player--active');
+  'player2'.classList.toggle('player--active');
 ```
 ### See live page
 [play the game]()
