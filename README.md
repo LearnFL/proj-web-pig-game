@@ -1,7 +1,7 @@
 # JavaScript Pig Game
 
 ### Process
-JavaScript, HTML, CSS
+JavaScript, HTML, CSS. Names are editable.
 
 ### Consideration
 Since we know that the game begins with the player `player--0`, a smarter way to switch currect player is:
