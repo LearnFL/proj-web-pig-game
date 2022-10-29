@@ -16,7 +16,10 @@ If dice is equal to 1:
 ```
   activePlayer = activePlayer === 0 ? 1 : 0; 
 ```
-
+Instead of using `.classList.add('player--active')` or `.classList.remove('player--active')`:
+```
+  `.classList.toggle('player--active')`
+```
 ### See live page
 [play the game]()
 
