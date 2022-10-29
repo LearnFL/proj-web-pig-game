@@ -21,9 +21,14 @@ Instead of using `.classList.add('player--active')` or `.classList.remove('playe
   'player1'.classList.toggle('player--active');
   'player2'.classList.toggle('player--active');
 ```
+
+### Rules
+Winner is the one who gets 100 point first. If the dice is Zero then you loose you current point. You can hit HOLD to add your current points to your total, but you loose your turn.
+
 ### See live page
 [play the game]()
 
 ### Screenshots
 ![Screen Shot 2022-10-29 at 4 02 34 PM](https://user-images.githubusercontent.com/86169204/198850543-961c12d1-94ea-4d12-9d84-1f04d7261ba2.png)
 ![Screen Shot 2022-10-29 at 4 03 10 PM](https://user-images.githubusercontent.com/86169204/198850563-4e59aa10-8d47-40be-9b9f-a3020e48a547.png)
+![Screen Shot 2022-10-29 at 4 49 17 PM](https://user-images.githubusercontent.com/86169204/198851822-89867cd1-66b6-4fea-b584-c153e4f34efd.png)
