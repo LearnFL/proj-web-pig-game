@@ -26,7 +26,7 @@ Instead of using `.classList.add('player--active')` or `.classList.remove('playe
 Winner is the one who gets 100 point first. If the dice is ONE then you loose you current points. You can click HOLD to add your current points to your total, but you loose your turn.
 
 ### See live page
-[play the game]()
+[play the game](https://learnfl.github.io/proj-web-pig-game/)
 
 ### Screenshots
 ![Screen Shot 2022-10-29 at 4 02 34 PM](https://user-images.githubusercontent.com/86169204/198850543-961c12d1-94ea-4d12-9d84-1f04d7261ba2.png)
