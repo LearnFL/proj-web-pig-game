@@ -23,7 +23,7 @@ Instead of using `.classList.add('player--active')` or `.classList.remove('playe
 ```
 
 ### Rules
-Winner is the one who gets 100 point first. If the dice is Zero then you loose you current point. You can hit HOLD to add your current points to your total, but you loose your turn.
+Winner is the one who gets 100 point first. If the dice is ONE then you loose you current point. You can hit HOLD to add your current points to your total, but you loose your turn.
 
 ### See live page
 [play the game]()
