@@ -61,7 +61,7 @@ holdButton.addEventListener('click', () => {
       activePlayer.querySelector('.current-score').textContent = 0;
 
       // Check if player is the winner
-      if (Number(activePlayer.querySelector('.score').textContent) >= 5) {
+      if (Number(activePlayer.querySelector('.score').textContent) >= 100) {
         diceImage.classList.add('hidden');
         activePlayer.style.backgroundColor = '#3c4048a4';
         winner = true;
